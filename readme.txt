@@ -1,1 +1,2 @@
-This is a test txt.
+This is a test txt but modified.
+Git is a free software.
